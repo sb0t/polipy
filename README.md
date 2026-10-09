@@ -24,9 +24,9 @@
 
 <!-- Screenshot / GIF of the Jupyter Notebook -->
 
-</div>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sb0t)
 
-<!-- Buy Me a Coffee -->
+</div>
 
 > [!CAUTION]
 > Personal study notes, so errors are possible. Corrections are welcome via issues or PRs.
